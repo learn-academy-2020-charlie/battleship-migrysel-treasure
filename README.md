@@ -44,12 +44,12 @@ Take it one story at a time. It is easier to have many small wins than to have o
 7. As a user I can torpedo one 1 block submarine, so that the game is diverse.
 
 ### Third Epic
-1. As a user the ships can be oriented vertical or horizontal but not diagonally, so that there is a diverse placement of ships on the board.
+1. As a developer the ships can be oriented vertical or horizontal but not diagonally, so that there is a diverse placement of ships on the board.
 
-2. As a user I can randomly place the two 4 block ships, one vertical one horizontal, so that there is a diverse placement of 4 block ships on the board.
+2. As a developer I can randomly place the two 4 block ships, one vertical one horizontal, so that there is a diverse placement of 4 block ships on the board.
 
-3. As a user I can randomly place the 3 block ships, one vertical one horizontal, so that there is a diverse placement of 3 block ships on the board.
+3. As a developer I can randomly place the 3 block ships, one vertical one horizontal, so that there is a diverse placement of 3 block ships on the board.
 
-4. As a user I can randomly place the two 2 block ships, one vertical one horizontal, so that there is a diverse placement of 2 block ships on the board.
+4. As a developer I can randomly place the two 2 block ships, one vertical one horizontal, so that there is a diverse placement of 2 block ships on the board.
 
 5. As a user I can see the status of ships I have sunk/not sunk, so that I have an easier way of knowing how many and which ships I left.
